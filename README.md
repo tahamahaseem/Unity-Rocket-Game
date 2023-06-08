@@ -7,6 +7,18 @@ Space Tower Defense Game is an exciting 2D game where you must protect your plan
 
 https://github.com/tahamahaseem/Unity-Rocket-Game/assets/52297139/ad5804c1-c532-409c-afcf-d4f0ecd5cac6
 
+## Assets
+
+### Player
+<img src="" alt="Player" width="200" />
+
+### Red Falcon
+<img src="" alt="Red Falcon" width="200" />
+
+### Disruptor
+<img src="" alt="Disruptor" width="200" />
+
+
 ## Features
 - Engaging tower defense gameplay in a space setting
 - Realistic physics, including planet gravity and spaceship inertia
