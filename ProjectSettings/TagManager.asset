@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mob
+  - Home
+  - Planet
+  - PlayerBullet
+  - Undefined
+  - PassiveBullet
+  - AgressiveBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Post-Processing
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2353658147
+    locked: 0
+  - name: Planet
+    uniqueID: 340176803
+    locked: 0
+  - name: Particles
+    uniqueID: 3837225013
+    locked: 0
+  - name: Entities
+    uniqueID: 2783257227
+    locked: 0
+  - name: Player
+    uniqueID: 1276303051
+    locked: 0
+  - name: Indicator
+    uniqueID: 2858706249
+    locked: 0
