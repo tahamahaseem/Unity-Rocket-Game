@@ -3,10 +3,6 @@
 ## Description
 Space Tower Defense Game is an exciting 2D game where you must protect your planet from invading alien spaceships. Realistic physics, and captivating visuals to defend your home. Developed using Unity, with art, music, and sound design by the developer.
 
-## Gameplay
-
-
-
 ## Features
 - Engaging tower defense gameplay in a space setting
 - Realistic physics, including planet gravity and spaceship inertia
